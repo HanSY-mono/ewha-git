@@ -1,3 +1,2 @@
-1 README.md
 # ewha-git
-test2
+test1 test2
